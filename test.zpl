@@ -1,0 +1,5 @@
+^XA
+^FO0,-50
+^BQ,2,10
+^FDLA,adjkjfk-999999-7878787878-pkdklajk^FS
+^XZ
